@@ -1,0 +1,3 @@
+[submodule "0x01-variables_if_else_while/0x01-variables_if_else_while/Betty"]
+	path = 0x01-variables_if_else_while/0x01-variables_if_else_while/Betty
+	url = https://github.com/holbertonschool/Betty
